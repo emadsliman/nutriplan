@@ -1,0 +1,1 @@
+export const USDA_API_KEY = "H7pjkBBgg7fh9pkDfRMRBt8fdGLgTKMtR8F9KKmm";
