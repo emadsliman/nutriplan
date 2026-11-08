@@ -59,3 +59,4 @@ export function getCategoryStyle(name) {
     categoryStyles[name] || { icon: "fa-utensils", from: "#34d399", to: "#22c55e" }
   );
 }
+////////////
